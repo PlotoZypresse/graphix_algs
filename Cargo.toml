@@ -8,7 +8,7 @@ repository = "https://github.com/PlotoZypresse/graphix-algs"
 homepage = "https://github.com/PlotoZypresse/graphix-algs"
 license = "MIT"
 keywords = ["graph", "algorithms", "connected-components", "mst", "rust"]
-categories = ["data-structures", "algorithm"]
+categories = ["data-structures"]
 readme = "README.md"
 
 [dependencies]
