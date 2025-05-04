@@ -1,0 +1,14 @@
+[package]
+name = "graphix_algs"
+version = "0.1.0"
+edition = "2021"
+authors = ["PlotoZypresse"]
+description = "Algorithm extensions for graphix: connected-components, contraction, and MST routines"
+repository = "https://github.com/PlotoZypresse/graphix-algs"
+homepage = "https://github.com/PlotoZypresse/graphix-algs"
+license = "MIT"
+keywords = ["graph", "algorithms", "connected-components", "mst", "rust"]
+categories = ["data-structures", "algorithm"]
+readme = "README.md"
+
+[dependencies]
